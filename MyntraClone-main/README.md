@@ -3,7 +3,7 @@
 
 <h1>Myntra Clone construct week project</h1>
 <h3>Description</h3>
-<p><b>This is a collaborative project. Build using HTML, CSS, JS along with a team of 5 members in 7 days</b></p>
+<p><b>This is a collaborative project. Build using HTML, CSS, JS  </b></p>
 <div><img src="https://github.com/shivraj32644/MyntraClone/blob/main/Assets/logomyntra.png?raw=true" height="300px" width="500px" alt=""></img></div>
 <br/>
 <h3>Preview-</h3>
@@ -20,14 +20,8 @@
 <li><i>Local Storage</i></li>
 </ul>
 <br/>
-<h3>Team Members-</h3>
-<ol>
-<li><i><a href="https://www.linkedin.com/in/shivraj-dangi-203892232/" target="_blank">Shivraj Dangi</a></i></li>
-<li><i><a href="https://www.linkedin.com/in/bkabhi/" target="_blank">Abhijeet Sagar</a></i></li>
-<li><i><a href="https://www.linkedin.com/in/mohd-umar-91b07290/" target="_blank">Mohd Umar </a></i></li>
-<li><i><a href="https://www.linkedin.com/in/aman-kumar-patel-540a47169/" target="_blank">Aman Patel</a></i></li>
-<li><i><a href="https://www.linkedin.com/in/yogeshfullstack/" target="_blank">Yogesh Kumar</a></i></li>
-</ol>
+ 
+ 
 <h3>Work description-</h3>
 <ul list-style-type="square">
 
